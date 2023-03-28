@@ -1,0 +1,1 @@
+This will be my first basic website showing different cooking recipes. I will be using some HTML skills that I have learned such as: building an html boilerplate, making paragraphs, creating links (absolute and relative), and inserting images. 
